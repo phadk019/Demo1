@@ -1,1 +1,2 @@
 Second text file
+Added another text line
